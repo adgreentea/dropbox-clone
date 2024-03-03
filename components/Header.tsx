@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import React from "react";
 import { SignInButton, SignedOut, UserButton } from "@clerk/nextjs";
+import { ThemeToggle } from "./ThemeToggler";
 
 function Header() {
   return (
@@ -18,15 +19,13 @@ function Header() {
         </div>
         <h1 className="font-bold text-xl">DropBox</h1>
       </Link>
-
-      <div className="px-5 flex space-x-2 items-center"></div>
-
-      {/* Theme toggler */}
-
-      <UserButton afterSignOutUrl="/" />
-      <SignedOut>
-        <SignInButton afterSignInUrl="/dashboard" mode="modal" />
-      </SignedOut>
+      <div className="px-5 flex space-x-2 items-center">
+        <ThemeToggle />
+        <UserButton afterSignOutUrl="/" />
+        <SignedOut>
+          <SignInButton afterSignInUrl="/dashboard" mode="modal" />
+        </SignedOut>
+      </div>
     </header>
   );
 }
