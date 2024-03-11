@@ -34,6 +34,11 @@ export function DataTable<TData, TValue>({
     getCoreRowModel: getCoreRowModel(),
   });
 
+  const openDeleteModal = (fileId: string) => {
+    setFileId(fileId);
+    setIsDeleteModalOpen(true);
+  ***REMOVED***
+
   return (
     <div className="rounded-md border">
       <Table>
