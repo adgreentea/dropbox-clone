@@ -38,7 +38,6 @@ export function DeleteModal() {
       deleteObject(fileRef)
         .then(async () => {
           deleteDoc(doc(db, "users", user.id, "files", fileId)).then(() => {
-            console.log("Deleted!");
             toast.success("Deleted sucessfully!", { id: toastId });
           });
         })
