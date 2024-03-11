@@ -19,7 +19,7 @@ import { FileType } from "@/typings";
 import { Button } from "../ui/button";
 import { PencilIcon, TrashIcon } from "lucide-react";
 import { useAppStore } from "@/store/store";
-import { DeleteModal } from "../ui/DeleteModal";
+import { DeleteModal } from "../DeleteModal";
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[];
