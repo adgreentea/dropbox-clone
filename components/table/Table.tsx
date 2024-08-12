@@ -48,13 +48,13 @@ export function DataTable<TData, TValue>({
   const openDeleteModal = (fileId: string) => {
     setFileId(fileId);
     setIsDeleteModalOpen(true);
-  ***REMOVED***
+  };
 
   const openRenameModal = (fileId: string, filename: string) => {
     setFileId(fileId);
     setFilename(filename);
     setIsRenameModalOpen(true);
-  ***REMOVED***
+  };
 
   return (
     <div className="rounded-md border">
