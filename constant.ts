@@ -58,4 +58,4 @@ export const COLOR_EXTENSION_MAP: {
   less: "#000000",
   md: "#aaoaoa",
   yml: "#eoaoeo",
-***REMOVED***
+};

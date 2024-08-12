@@ -9,7 +9,7 @@ import { Input } from "./ui/input";
 import { DialogTitle } from "@radix-ui/react-dialog";
 import { doc, updateDoc } from "firebase/firestore";
 import { db } from "@/firebase";
-import toast, { Toaster } from "react-hot-toast";
+import toast from "react-hot-toast";
 
 function RenameModal() {
   const { user } = useUser();
@@ -30,7 +30,7 @@ function RenameModal() {
     toast.success("Renamed sucessfully!", { id: toastId });
     setInput("");
     setIsRenameModalOpen(false);
-  ***REMOVED***
+  };
 
   return (
     <Dialog

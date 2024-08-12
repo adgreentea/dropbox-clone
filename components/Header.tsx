@@ -10,7 +10,7 @@ function Header() {
       <Link href="/" className="flex items-center space-x-2">
         <div className="bg-[#0160FE] w-fit">
           <Image
-            src="https://i.imgur.com/vgtFxPY.png"
+            src="/assets/images/logo.webp"
             alt="logo"
             className="invert"
             width={50}

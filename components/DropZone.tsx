@@ -24,10 +24,10 @@ function DropZone() {
       reader.onerror = () => console.log("file reading has failed");
       reader.onload = async () => {
         await uploadPost(file);
-      ***REMOVED***
+      };
       reader.readAsArrayBuffer(file);
     });
-  ***REMOVED***
+  };
 
   const uploadPost = async (selectedFile: File) => {
     if (loading) return;
@@ -52,7 +52,7 @@ function DropZone() {
     });
     toast.success("Uploaded Succesfully", { id: toastId });
     setLoading(false);
-  ***REMOVED***
+  };
 
   const maxSize = 20971520;
 
