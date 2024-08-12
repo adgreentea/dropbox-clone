@@ -31,7 +31,7 @@ The main objectives of Dropbox Clone are:
 ## 🤝 Contributors
 
 [![GitHub contributors](https://img.shields.io/github/contributors/LitoHDD/Dropbox-Clone?style=for-the-badge)](https://github.com/LitoHDD/Dropbox-Clone/graphs/contributors)  
-[![Contributors](https://contrib.rocks/image?repo=LitoHDD/Dropbox-Clone&max=12)](https://github.com/LitoHDD/Dropbox-Clone/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=LitoHDD/Dropbox-Clone)](https://github.com/LitoHDD/Dropbox-Clone/graphs/contributors)
 
 ## 📄 License
 
