@@ -19,21 +19,25 @@ The main objectives of Dropbox Clone are:
 
 ## 🔧 Technologies Used
 
-[![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?logo=html5&logoColor=white&style=for-the-badge)](https://github.com/LitoHDD/Dropbox-Clone)
-[![CSS](https://img.shields.io/badge/CSS-%23563d7c.svg?logo=css3&logoColor=white&style=for-the-badge)](https://github.com/LitoHDD/Dropbox-Clone)
-[![Next.js](https://img.shields.io/badge/Javascript-%23f1e05a?style=for-the-badge&logo=next.js&label=Next.js)](https://github.com/LitoHDD/Dropbox-Clone)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/LitoHDD/Dropbox-Clone)
+![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-%23563d7c.svg?logo=css3&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178c6.svg?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white&style=for-the-badge)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-white?style=for-the-badge&logo=shadcnui&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-%234B2D77.svg?logo=clerk&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🤝 Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/LitoHDD/Dropbox-Clone?style=for-the-badge)](https://github.com/LitoHDD/Dropbox-Clone/graphs/contributors)<br>
+[![GitHub contributors](https://img.shields.io/github/contributors/LitoHDD/Dropbox-Clone?style=for-the-badge)](https://github.com/LitoHDD/Dropbox-Clone/graphs/contributors)  
 [![Contributors](https://contrib.rocks/image?repo=LitoHDD/Dropbox-Clone&max=12)](https://github.com/LitoHDD/Dropbox-Clone/graphs/contributors)
 
 ## 📄 License
 
 This project is under the MIT License. For more information, please refer to the LICENSE file.
 
-## 🚀 Let's Get Started!
+## 🚀 Let's Get Started
 
 To start using Dropbox Clone, visit our GitHub repository and follow the instructions in the README.md file. You can also join our Discord server for discussions, support, and collaboration opportunities.
 
