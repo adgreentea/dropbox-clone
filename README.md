@@ -17,6 +17,10 @@ The main objectives of Dropbox Clone are:
 - To provide seamless file synchronization across devices, ensuring users have access to their files anytime, anywhere.
 - To facilitate easy sharing and collaboration on documents and folders among users and teams.
 
+## 🧠 Document Assistant (MVP)
+
+This version introduces a simple chat interface that lets you ask questions about your uploaded documents. The backend currently returns a placeholder response. Future iterations will integrate real semantic search and AI-driven answers.
+
 ## 🔧 Technologies Used
 
 ![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?logo=html5&logoColor=white&style=for-the-badge)
